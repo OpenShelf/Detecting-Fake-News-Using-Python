@@ -13,7 +13,7 @@ from sklearn.linear_model import PassiveAggressiveClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix
 
 #Read the data
-df=pd.read_csv('D:\\Projects\\news.csv')
+df=pd.read_csv('File Path as a .csv file')
 
 #Get shape and head
 df.shape
